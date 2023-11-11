@@ -4,15 +4,14 @@ Implementação de uma Arvore Binaria de Busca(ABB), com os metodos basicos de i
 
 <h1 id="usage" > 💻 Descrição </h1>
 <h2>Como rodar o projeto?</h2>
-<p>
-    Para rodar o projeto em sua maquina você pode clonar o projeto ou baixar o .zip.
 
-    Abra os arquivos no seu editor de texto, utilizamos o Eclipse mas se desejar utilizar outros como o VSCode é possivel.
-    Se for no Eclipse, basta criar um projeto Java com os arquivos do projeto, depois já pode rodar.
-    Caso queira adicionar mais elementos iniciais na arvore, basta editar o arquivo1.txt, se quiser que mais métodos sejam chamados, adicione eles no arquivo2.txt em maisculo.
+Para rodar o projeto em sua maquina você pode clonar o projeto ou baixar o .zip.
 
-</p>
-<h3>Formato:<h3>
+Abra os arquivos no seu editor de texto, utilizamos o Eclipse mas se desejar utilizar outros como o VSCode é possivel.
+Se for no Eclipse, basta criar um projeto Java com os arquivos do projeto, depois já pode rodar.
+Caso queira adicionar mais elementos iniciais na arvore, basta editar o arquivo1.txt, se quiser que mais métodos sejam chamados, adicione eles no arquivo2.txt em maisculo.
+
+Formato:
 - ENESIMO N
 - POSICAO N
 - MEDIANA
@@ -20,12 +19,10 @@ Implementação de uma Arvore Binaria de Busca(ABB), com os metodos basicos de i
 - COMPLETA
 - IMPRIMA S
 - REMOVA N
-<h3>Exemplo:</h3>
+Exemplo:
 - IMPRIMA 2
 - MEDIANA
 - ENESIMO 10
-<p>
 
-    Caso você copie o código para o eclipse ou qualquer outra IDE, atente-se no detalhe que o <span>arquivo1.txt</span> e o <span>arquivo2.txt</span> precisam estar dentro do projeto, senão acarretará erros de compilação.
+Caso você copie o código para o eclipse ou qualquer outra IDE, atente-se no detalhe que o arquivo1.txt e o arquivo2.txt precisam estar dentro do projeto, senão acarretará erros de compilação.
 
-</p>
