@@ -4,6 +4,8 @@ Implementação de uma Arvore Binaria de Busca(ABB), com os metodos basicos de i
 
 Linguagem utilizada: Java
 
+Observação: Não foi utilizada nenhuma estrutura de dados pré-pronta de bibliotecas externas.
+
 <h1 id="usage" > 💻 Descrição </h1>
 <h2>Como rodar o projeto?</h2>
 
@@ -13,7 +15,7 @@ Abra os arquivos no seu editor de texto, utilizamos o Eclipse mas se desejar uti
 Se for no Eclipse, basta criar um projeto Java com os arquivos do projeto, depois já pode rodar.
 Caso queira adicionar mais elementos iniciais na arvore, basta editar o arquivo1.txt, se quiser que mais métodos sejam chamados, adicione eles no arquivo2.txt em maisculo.
 
-<h3>Formato das chamadas de funções:</h3>
+Formato das chamadas de funções:
 - ENESIMO N
 - POSICAO N
 - MEDIANA
@@ -22,7 +24,7 @@ Caso queira adicionar mais elementos iniciais na arvore, basta editar o arquivo1
 - IMPRIMA S
 - REMOVA N
 
-<h3>Exemplo de chamadas de funções:<h3>
+Exemplo de chamadas de funções:
 - IMPRIMA 2
 - MEDIANA
 - ENESIMO 10
@@ -35,5 +37,3 @@ Caso você copie o código para o eclipse ou qualquer outra IDE, atente-se no de
 
 <h3>Professor Orientador:</h3>
 Sidemar Fideles Cezario
-
-Observação: Não foi utilizada nenhuma estrutura de dados pré-pronta de bibliotecas externas.
