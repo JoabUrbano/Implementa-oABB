@@ -32,7 +32,7 @@ Exemplo de chamadas de funções:
 Caso você copie o código para o eclipse ou qualquer outra IDE, atente-se no detalhe que o arquivo1.txt e o arquivo2.txt precisam estar dentro do projeto, senão acarretará erros de compilação.
 
 <h3>Autores:</h3>
-<a href="https://github.com/JoabUrbano">Joab Urbano de Araujo</a>
+<a href="https://github.com/JoabUrbano">Joab Urbano de Araujo</a><br>
 <a href="https://github.com/josevictorn">José Victor</a>
 
 <h3>Professor Orientador:</h3>
