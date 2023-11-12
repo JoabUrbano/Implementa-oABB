@@ -95,7 +95,6 @@ public class TreeABB {
 		}
 		
 		// Se o loop termina e o nó auxiliar é nulo, a chave não foi encontrada
-		System.out.println("Chave não encontrada!");
 		return null;
 	}
 	
@@ -462,6 +461,8 @@ public class TreeABB {
 			System.out.println("----- Função Buscar -----");
 			if(this.search(n) != null)
 				System.out.println("Chave encontrada!");
+			else
+				System.out.println("Chave não encontrada!");
 		} else if (method.equals("INSIRA") && !parameter.equals("")) {
 			int n = Integer.parseInt(parameter);
 			System.out.println("----- Função Inserir -----");
