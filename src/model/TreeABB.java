@@ -90,7 +90,6 @@ public class TreeABB {
 			} else if(value > aux.getData()) {
 				aux = aux.getRight();
 			} else {
-				System.out.println("Chave encontrada!");
 				return aux;
 			}
 		}
@@ -461,7 +460,8 @@ public class TreeABB {
 		if (method.equals("BUSCAR") && !parameter.equals("")) {
 			int n = Integer.parseInt(parameter);
 			System.out.println("----- Função Buscar -----");
-			this.search(n);
+			if(this.search(n) != null)
+				System.out.println("Chave encontrada!");
 		} else if (method.equals("INSIRA") && !parameter.equals("")) {
 			int n = Integer.parseInt(parameter);
 			System.out.println("----- Função Inserir -----");
